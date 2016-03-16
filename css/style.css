@@ -1,0 +1,10 @@
+	
+	*{margin:0;padding:0}
+	body{padding-bottom:50px;}
+	.triangle{width:0;height:0;border:30px;border-style:solid;margin:40px;}
+	.top{border-color:#fff transparent transparent transparent;}
+	.right{border-color:transparent #fff transparent transparent;}
+	.left{border-color:transparent transparent transparent #fff;}
+	.bottom,#scrollToTop{border-color:transparent transparent #fff transparent;}
+	#article{height:2000px;background:#ffaa14;}
+	#scrollToTop{cursor:pointer;position:fixed;right:20px;bottom:-30px;display:none;}   
