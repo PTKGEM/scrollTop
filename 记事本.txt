@@ -1,2 +1,11 @@
 2016/3/17/9:00
 测试一下
+
+GitHub & BitBucket HTML Preview
+暂时使用Github & BitBucket HTML Preview 生成demo页面预览，地址如下：
+https://htmlpreview.github.io/
+html preview
+
+比如我输入： https://github.com/angelzou/ife-tasks-1/blob/master/angelzou/1-html-structure-learn.html
+生成的链接为： https://htmlpreview.github.io/?https://github.com/angelzou/ife-tasks-1/blob/master/angelzou/1-html-structure-learn.html
+然后在项目根目录的index.html文件中，将做好的demo加入其中。
